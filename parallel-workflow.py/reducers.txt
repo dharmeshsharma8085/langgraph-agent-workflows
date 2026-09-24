@@ -1,0 +1,9 @@
+REDUCER
+
+A reducer is a function that combines or processes multiple inputs, states, or results and produces a single updated state or result.
+
+In workflow systems, a reducer determines how new information is merged with the existing state when multiple steps or branches contribute data.
+
+In simple words:
+
+A reducer takes incoming results and combines them into the final or updated state.

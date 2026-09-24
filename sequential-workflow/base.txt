@@ -1,0 +1,16 @@
+BASE
+
+A base is a fundamental element, foundation, or starting point on which something is built, developed, or organized.
+
+In general terms, a base provides the essential support or starting structure required for further operations, development, or decision-making.
+
+In different contexts, the meaning of base can vary:
+
+* In mathematics, a base can refer to the number system used to represent numbers, such as base 2 (binary) or base 10 (decimal).
+* In chemistry, a base is a substance that can accept protons (H+) or produce hydroxide ions (OH-) in aqueous solution.
+* In computing, a base can refer to a foundational system, framework, dataset, or starting configuration.
+* In a workflow, a base can represent the initial information or foundation from which subsequent steps operate.
+
+In simple words:
+
+A base is the foundation or starting point upon which something else is built.
