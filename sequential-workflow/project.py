@@ -7,7 +7,7 @@ from langgraph.graph import StateGraph, START, END
 
 load_dotenv()
 
-
+# state 
 class pipelinestate(TypedDict, total=False):
     raw_input: str
     edited_text: str
